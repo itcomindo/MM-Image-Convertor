@@ -1,0 +1,3 @@
+MM Image Convertor merupkan plugin Wordpress gratis yang bisa Anda download dan install di Wordpress Anda. Plugin ini akan mengkonversi gambar hanya dari extensi .jpg, .jpeg dan .png yang Anda upload ke dalam format WebP.
+
+WebP adalah format gambar yang dikembangkan oleh Google yang memiliki ukuran file yang lebih kecil dibandingkan dengan format gambar lainnya. Dengan menggunakan plugin ini, Anda bisa menghemat ruang penyimpanan di hosting, waktu untuk melalukan konvesi dll.
